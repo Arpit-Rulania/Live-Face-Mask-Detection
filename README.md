@@ -2,9 +2,6 @@
 # Live-Face-Mask-Detection
 Detect different kinds of face masks live on using inbuilt cameras.
 
-## Face Mask Recognition
-
-## z5238561 Arpit Singh Rulania
 
 ```
 I. Introduction
